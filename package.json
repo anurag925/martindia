@@ -1,0 +1,19 @@
+{
+  "name": "martindia",
+  "version": "1.0.0",
+  "description": "martindia main page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurag925/martindia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurag925/martindia/issues"
+  },
+  "homepage": "https://github.com/anurag925/martindia#readme"
+}
